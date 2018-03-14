@@ -8,3 +8,6 @@ C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDra
 C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\obj\Debug\DataSetDragDrop.exe
 C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\obj\Debug\DataSetDragDrop.xml
 C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\obj\Debug\DataSetDragDrop.pdb
+C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\obj\Debug\DataSetDragDrop.vbprojResolveAssemblyReference.cache
+C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\obj\Debug\DataSetDragDrop.Form2.resources
+C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\obj\Debug\DataSetDragDrop.Form3.resources
