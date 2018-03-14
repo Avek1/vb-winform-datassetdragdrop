@@ -1,1 +1,10 @@
 C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\bin\Debug\DataSetDragDrop.exe.config
+C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\bin\Debug\DataSetDragDrop.exe
+C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\bin\Debug\DataSetDragDrop.pdb
+C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\bin\Debug\DataSetDragDrop.xml
+C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\obj\Debug\DataSetDragDrop.Form1.resources
+C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\obj\Debug\DataSetDragDrop.Resources.resources
+C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\obj\Debug\DataSetDragDrop.vbproj.GenerateResource.Cache
+C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\obj\Debug\DataSetDragDrop.exe
+C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\obj\Debug\DataSetDragDrop.xml
+C:\SF.Code\PluralSight\vb-windows-forms-intro-with-vb\DataSetDragDrop\DataSetDragDrop\obj\Debug\DataSetDragDrop.pdb
